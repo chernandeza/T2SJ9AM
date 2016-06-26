@@ -24,6 +24,7 @@ namespace ServidorConsola
             hilo1.Start();
             hilo2.Start();
             Console.ReadLine();
+            //Fin del ejemplo
         }
     }
 }
